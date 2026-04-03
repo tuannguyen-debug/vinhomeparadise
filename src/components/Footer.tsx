@@ -46,7 +46,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-emerald-900 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-light">
-          <p>&copy; {new Date().getFullYear()} Vinhomes Green Paradise. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Vinhomes Paradise Cần Giờ. All rights reserved.</p>
           <p>
             * Thông tin trên website chỉ mang tính chất tham khảo, có thể được điều chỉnh bởi chủ đầu tư.
           </p>

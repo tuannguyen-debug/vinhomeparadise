@@ -98,7 +98,7 @@ export default function Amenities() {
           <div className="absolute inset-0 bg-gradient-to-t from-emerald-950/90 to-transparent flex items-end">
             <div className="p-8 md:p-12 max-w-2xl">
               <h3 className="text-2xl md:text-3xl font-serif font-bold text-white mb-4">Sống trọn từng khoảnh khắc</h3>
-              <p className="text-gray-300 font-light">Mỗi ngày tại Vinhomes Green Paradise là một kỳ nghỉ dưỡng hoàn hảo, nơi bạn và gia đình tận hưởng những giá trị sống đích thực.</p>
+              <p className="text-gray-300 font-light">Mỗi ngày tại Vinhomes Paradise Cần Giờ là một kỳ nghỉ dưỡng hoàn hảo, nơi bạn và gia đình tận hưởng những giá trị sống đích thực.</p>
             </div>
           </div>
         </motion.div>

@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <img
           src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=2075&q=80"
-          alt="Vinhomes Green Paradise Cần Giờ"
+          alt="Vinhomes Paradise Cần Giờ"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />
@@ -27,7 +27,7 @@ export default function Hero() {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-white leading-tight mb-6 drop-shadow-lg">
             VINHOMES <br className="md:hidden" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-400 to-gold-600">
-              GREEN PARADISE
+              PARADISE CẦN GIỜ
             </span>
           </h1>
           <p className="text-gray-200 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-light leading-relaxed">

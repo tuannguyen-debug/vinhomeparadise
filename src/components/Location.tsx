@@ -25,7 +25,7 @@ export default function Location() {
               <span className="text-gold-500">Giao Thương & Du Lịch</span>
             </h2>
             <p className="text-gray-300 text-lg font-light">
-              Tọa lạc tại xã Long Hòa và thị trấn Cần Thạnh, Cần Giờ - huyện duy nhất của TP.HCM giáp biển. Vinhomes Green Paradise sở hữu vị thế "tựa sơn hướng thủy", mang lại vượng khí và tài lộc.
+              Tọa lạc tại xã Long Hòa và thị trấn Cần Thạnh, Cần Giờ - huyện duy nhất của TP.HCM giáp biển. Vinhomes Paradise Cần Giờ sở hữu vị thế "tựa sơn hướng thủy", mang lại vượng khí và tài lộc.
             </p>
           </motion.div>
         </div>
@@ -83,15 +83,15 @@ export default function Location() {
           className="relative h-[400px] md:h-[500px] w-full border border-emerald-800/50 p-2 bg-emerald-900/30"
         >
           <img 
-            src="https://images.unsplash.com/photo-1524661135-423995f22d0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" 
-            alt="Bản đồ vị trí Vinhomes Cần Giờ" 
-            className="w-full h-full object-cover opacity-80 mix-blend-luminosity"
+            src="https://vinhomebysalereal.vn/wp-content/uploads/2025/09/mat-bang-vinhomes-green-paradise-can-gio.jpg" 
+            alt="Bản đồ vị trí Vinhomes Paradise Cần Giờ" 
+            className="w-full h-full object-cover opacity-90 mix-blend-normal"
             referrerPolicy="no-referrer"
           />
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="bg-emerald-950/80 backdrop-blur-sm px-8 py-4 border border-gold-500/30 text-center">
               <p className="text-gold-400 font-serif text-xl">Bản đồ vị trí dự án</p>
-              <p className="text-sm text-gray-400 mt-2">Vinhomes Green Paradise</p>
+              <p className="text-sm text-gray-400 mt-2">Vinhomes Paradise Cần Giờ</p>
             </div>
           </div>
         </motion.div>

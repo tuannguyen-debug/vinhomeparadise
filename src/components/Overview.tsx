@@ -69,7 +69,7 @@ export default function Overview() {
               <span className="text-gold-500">Đẳng Cấp Quốc Tế</span>
             </h2>
             <p className="text-gray-600 mb-8 leading-relaxed">
-              Vinhomes Green Paradise Cần Giờ (Vinhomes Cần Giờ) là siêu dự án khu đô thị lấn biển, kết hợp du lịch sinh thái nghỉ dưỡng quy mô bậc nhất Việt Nam do Tập đoàn Vingroup làm chủ đầu tư. Dự án hứa hẹn mang đến một không gian sống hoàn mỹ, hòa quyện giữa thiên nhiên nguyên sơ của khu dự trữ sinh quyển thế giới và hệ thống tiện ích "All-in-one" thượng lưu.
+              Vinhomes Paradise Cần Giờ (Vinhomes Cần Giờ) là siêu dự án khu đô thị lấn biển, kết hợp du lịch sinh thái nghỉ dưỡng quy mô bậc nhất Việt Nam do Tập đoàn Vingroup làm chủ đầu tư. Dự án hứa hẹn mang đến một không gian sống hoàn mỹ, hòa quyện giữa thiên nhiên nguyên sơ của khu dự trữ sinh quyển thế giới và hệ thống tiện ích "All-in-one" thượng lưu.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 mt-12">
